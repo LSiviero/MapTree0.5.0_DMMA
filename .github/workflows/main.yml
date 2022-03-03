@@ -4,7 +4,7 @@ on:
       - main
 
 
-name: 🚀 Deploy website on push
+name: 🚀 Mapping Trees 0.5.0 - Dia Mundial do Meio Ambiente.
 jobs:
   web-deploy:
     name: 🎉 Deploy
